@@ -1,0 +1,14 @@
+{
+  "name": "Meyela",
+  "short_name": "Meyela",
+  "description": "Merakla büyüyen küçük bir dünya — Türkçe çocuk çizgi filmi.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7efe2",
+  "theme_color": "#f7efe2",
+  "lang": "tr",
+  "icons": [
+    { "src": "/assets/img/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "/assets/img/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
